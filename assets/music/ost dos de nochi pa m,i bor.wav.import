@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://qtyxyotej1m6"
+path="res://.godot/imported/ost dos de nochi pa m,i bor.wav-a3eb897b79798a7f3653a46fbd6da3ee.sample"
+
+[deps]
+
+source_file="res://assets/music/ost dos de nochi pa m,i bor.wav"
+dest_files=["res://.godot/imported/ost dos de nochi pa m,i bor.wav-a3eb897b79798a7f3653a46fbd6da3ee.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=0

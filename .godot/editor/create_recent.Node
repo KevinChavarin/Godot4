@@ -1,0 +1,14 @@
+CollisionShape2D
+Area2D
+AudioStreamPlayer2D
+WorldEnvironment
+Node2D
+AnimationPlayer
+Timer
+ProgressBar
+RigidBody2D
+CollisionPolygon2D
+StaticBody2D
+TileMap
+DirectionalLight2D
+LightOccluder2D
